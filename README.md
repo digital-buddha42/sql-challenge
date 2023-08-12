@@ -1,5 +1,5 @@
 # sql-challenge
-
+All homework files can be located within EmployeeSQL folder.
 
 EXTRACT function courtesy of Chat GPT:
 
